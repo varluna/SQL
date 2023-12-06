@@ -1,13 +1,14 @@
 /* 
-Q1: how many item in each catagory where sold ?
-Q2: What are the most frequently purchased item/categories?
-Q3: What is the demographic distribution of our customers purchasing based on age, gender and Frequency of Purchases
-Q4.1: Are there seasonal trends in purchasing behavior?
-Q4.2: max and min item purchased based on the season
-Q5: is there a relationship between the item purchased by the season?
-Q6: What is the average transaction value for different customer segments?
-Q7: How many customers are repeat buyers, and what is the average frequency of their purchases?
-Q8: most rated items for each catagory/item?
+--Question 1: How many accidents have occurred in urban areas versus rural areas?
+--Question 2.1: Which day of the week has the highest number of accidents?
+--Question 2.2: witch light condition in an accidents with the day of the week?
+--Question 2.3: Calculate the accidents , considering Day and LightConditions:
+--Question 3: What is the average age of vehicles involved in accidents based on their type?
+--Question 4: Can we identify any trends in accidents based on the age of vehicles involved?
+--Question 5: Are there any specific weather conditions that contribute to severe accidents?
+--Question 6: Do accidents often involve impacts on the left-hand side of vehicles?
+--Question 7: Are there any relationships between journey purposes and the severity of accidents?
+--Question 8: Calculate the average age of vehicles involved in accidents , considering Day light and point of impact:
 */
 
 
